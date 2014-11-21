@@ -22,7 +22,7 @@ FOODit-MobileTest
 The Mobile Test is the same for both iOS and Andriod.
 We have not included a starter application framework, please use one you are familiar with.
 
-The solution should take into account: 
+Your solution should take into account the following: 
 
 - It should be as true to the designs as possible, but candidates should feel free to add anything that improves the flow/design, using touch and gestures where applicable.
 
